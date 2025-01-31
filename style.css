@@ -231,10 +231,11 @@ header {
 }
 
 .intro__description {
-  margin-block: 1rem 2rem;
+ 
+   margin-bottom: 2rem;
   color: var(--text-light);
-  line-height: 1.30rem;
   text-align: center;
+  line-height: 1.50rem;
 }
 
 .intro__grid {
