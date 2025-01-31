@@ -213,7 +213,7 @@ header {
   position: absolute;
   content: "";
   height: 200%;
-  width: 8rem;
+  width: 10rem;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%) rotate(-35deg);
@@ -234,7 +234,7 @@ header {
   margin-block: 1rem 2rem;
   color: var(--text-light);
   line-height: 1.50rem;
-  text-align: center;
+  text-align: left;
 }
 
 .intro__grid {
