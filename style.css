@@ -235,6 +235,7 @@ header {
   color: var(--text-light);
   line-height: 1.30rem;
   text-align: left;
+  margin-right: 5px
 }
 
 .intro__grid {
