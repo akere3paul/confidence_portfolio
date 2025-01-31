@@ -153,7 +153,7 @@ header {
 }
 
 .header__content h2 {
-  font-size: 1rem;
+  font-size: 1.5rem;
   font-weight: 500;
   color: var(--primary-color);
   text-align: center;
@@ -161,8 +161,8 @@ header {
 
 .header__content h1 {
   margin-bottom: 1rem;
-  font-size: 4rem;
-  font-weight: 800;
+  font-size: 3rem;
+  font-weight: 600;
   color: var(--secondary-color);
   line-height: 5rem;
   text-align: center;
@@ -170,7 +170,7 @@ header {
 
 .header__content h3 {
   margin-bottom: 1rem;
-  font-display: 1.25rem;
+  font-display: 1rem;
   font-weight: 600;
   color: var(--secondary-color);
   text-align: center;
@@ -180,7 +180,7 @@ header {
   margin-bottom: 2rem;
   color: var(--text-light);
   text-align: center;
-  line-height: 1.75rem;
+  line-height: 1.50rem;
 }
 
 .header__btns {
